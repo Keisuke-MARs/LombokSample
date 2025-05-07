@@ -6,7 +6,7 @@
 
 4 「src/main/java」パッケージで**クラス作成**
 
-5 パッケージ名が「com.example.LombokSample**.entity**」←太字の部分を追記。これをすることで**entity**パッケージが自動追加される
+5 パッケージ名が「com.example.LombokSample **.entity**」←太字の部分を追記。これをすることで**entity**パッケージが自動追加される
 
 6 クラス名を**User**にして作成
 
